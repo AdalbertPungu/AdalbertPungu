@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdalbertPungu
+- 👋 Hi, I’m Adalbert Pungu
 - 👀 I’m interested in PHP And JavaScript
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on PHP And JavaScript
