@@ -5,7 +5,7 @@
 <hr>
 
 ## 📫 to reach me
-<a href="https://twitter.com/AdalbertPungu" alt="twitter">Twitter</a> • <a href="https://www.linkedin.com/in/AdalbertPungu" alt="linkedin" >Linkedin</a> • <a href="https://www.linkedin.com/in/AdalbertPungu" alt="linkedin">Medium</a> • <a href="https://adalbertpungu.hashnode.dev" alt="hashnode">Hashnode</a> • <a href="https://www.instagram.com/adalbertpungu" alt="instagram">Instagram</a>
+<a href="https://twitter.com/AdalbertPungu" alt="twitter">Twitter</a> • <a href="https://www.linkedin.com/in/AdalbertPungu" alt="linkedin" >Linkedin</a> • <a href="https://www.linkedin.com/in/AdalbertPungu" alt="linkedin">Medium</a> • <a href="https://adalbertpungu.hashnode.dev" alt="hashnode">Hashnode</a> • <a href="https://www.instagram.com/adalbertpungu" alt="instagram">Instagram</a> • <a href="https://stackoverflow.com/users/14471093/adalbertpungu" alt="stackoverflow">Stackoverflow</a>
 
 <hr>
 
