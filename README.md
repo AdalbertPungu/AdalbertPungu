@@ -1,21 +1,24 @@
-# 👋 Hi, I’m Adalbert Pungu
+## About me 
 
-### **I am a developer, I am interested in web development and I like technologies that have a good design; I am a fan of Mobile development and Design UI. I learn AI with Microsoft.**
+### 👋 Hi, I’m Adalbert Pungu
+
+I am a developer, Entrepreneur and Software Developer 
+Based in Lubumbashi - D.R Congo CD 
+Web Developer and Student Ambassador at @Microsoft
 
 <hr>
 
 ## 📫 to reach me
-<a href="https://twitter.com/AdalbertPungu" alt="twitter">Twitter</a> • <a href="https://www.linkedin.com/in/AdalbertPungu" alt="linkedin" >Linkedin</a> • <a href="https://medium.com/@adalbertpungu" alt="Medium">Medium</a> • <a href="https://adalbertpungu.hashnode.dev" alt="hashnode">Hashnode</a> • <a href="https://www.instagram.com/adalbertpungu" alt="instagram">Instagram</a> • <a href="https://stackoverflow.com/users/14471093/adalbertpungu" alt="stackoverflow">Stackoverflow</a> • <a href="https://www.freecodecamp.org/news/author/adalbertpungu" alt="FreeCodeCamp">FreeCodeCamp</a>
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/AdalbertPungu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-AdalbertPungu-blue?style=flat-square&logo=linkedin"></a> <a href="https://twitter.com/AdalbertPungu"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-AdalbertPungu-blue?style=flat-square&logo=twitter"></a> <a href="mailto:adalbertpungu@gmail.com"><img alt="Mail" src="https://img.shields.io/badge/Email-AdalbertPungu-blue?style=flat-square"></a>
+</p>
+
+## 📙 Blogposts
+
+<a href="https://www.freecodecamp.org/news/author/adalbertpungu"><img alt="FreeCodeCamp" src="https://img.shields.io/badge/FreeCodeCamp-AdalbertPungu-blue?style=flat-square&logo=FreeCodeCamp"></a> <a href="https://adalbertpungu.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-AdalbertPungu-black?style=flat-square&logo=Medium"></a> <a href="https://adalbertpungu.hashnode.dev/"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-AdalbertPungu-blue?style=flat-square&logo=Hashnode"></a>
 
 <hr>
 
-- 👀 I’m interested in PHP And JavaScript
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on PHP And JavaScript
-
 Thank you 🙏
-
-<!---
-AdalbertPungu/AdalbertPungu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
