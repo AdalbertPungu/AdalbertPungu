@@ -3,9 +3,8 @@
 ### 👋 Hi, I’m Adalbert Pungu
 
 I am a developer, Entrepreneur and Software Developer 
-Based in Lubumbashi - D.R Congo CD 
-Web Developer and Student Ambassador at @Microsoft
-
+Based in Lubumbashi - D.R Congo CD, I'm a 
+Web Developer and [Student Ambassador at Microsoft](https://studentambassadors.microsoft.com/en-US/profile/99271)
 <hr>
 
 ## 📫 to reach me
