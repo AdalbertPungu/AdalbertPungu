@@ -11,7 +11,7 @@ I am a Microsoft MVP and Software developer with passion in Web technologies & I
 - [![MVP Profile](https://img.shields.io/badge/Micosoft_MVP-Windows%20Insider%20🏆-blue?style=flat&logo=microsoft)](https://www.microsoft.com/en-us/windowsinsider/mvps/adalbert-pungu) &nbsp;
 - [![Gold MLSA Profile](https://img.shields.io/badge/Gold-Microsoft%20Student%20Ambassador🏆-blue?style=flat&logo=microsoft)](https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/070f61e0-5321-426d-93eb-bd3de87a4ae5) &nbsp;
 - Pronouns: He/him
-- Fell free to DM me on Twitter :)
+- Fell free to DM me on LinkedIn :)
 
 ## 📫 to reach me
 
