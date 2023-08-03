@@ -2,7 +2,7 @@
 
 <!-- <h1 align="left" id="adalbertpungu-title">Hi there 👋🏽</h1> -->
 <h3 align="left">My name is Adalbert</h3>
-I am a Microsoft MVP and Software developer with passion in Web technologies & I using JavaScript/TypeScript. I love Frontend, Open Source and the challenges associated with them. I like writing, teaching and sharing my knowledge with other engineers.
+I am a Microsoft MVP Windows Insider and Software developer with passion in Web technologies & I using JavaScript/TypeScript. I love Frontend, Open Source and the challenges associated with them. I like writing, teaching and sharing my knowledge with other engineers.
 <br><br>
 
 <!-- <a href="#adalbertpungu-title">
