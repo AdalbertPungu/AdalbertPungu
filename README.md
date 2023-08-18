@@ -9,7 +9,7 @@ I am a Microsoft MVP Windows Insider and Software developer with passion in Web 
   <img src="https://github-readme-stats.vercel.app/api?username=AdalbertPungu&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Adalbert Pungu" align="right" />
 </a> -->
 - [![MVP Profile](https://img.shields.io/badge/Micosoft_MVP-Windows%20Insider%20🏆-blue?style=flat&logo=microsoft)](https://www.microsoft.com/en-us/windowsinsider/mvps/adalbert-pungu) &nbsp;
-- [![Gold MLSA Profile](https://img.shields.io/badge/Gold-Microsoft%20Student%20Ambassador🏆-blue?style=flat&logo=microsoft)](https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/070f61e0-5321-426d-93eb-bd3de87a4ae5) &nbsp;
+- [![Gold MLSA Profile](https://img.shields.io/badge/Gold-Microsoft%20Student%20Ambassador🏆-blue?style=flat&logo=microsoft)](https://mvp.microsoft.com/fr-FR/studentambassadors/profile/070f61e0-5321-426d-93eb-bd3de87a4ae5) &nbsp;
 - Pronouns: He/him
 - Fell free to DM me on LinkedIn :)
 
@@ -28,6 +28,8 @@ I am a Microsoft MVP Windows Insider and Software developer with passion in Web 
 - <a href="https://adalbertpungu.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-AdalbertPungu-black?style=flat-square&logo=Medium"></a> 
 - <a href="https://adalbertpungu.hashnode.dev/"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-AdalbertPungu-blue?style=flat-square&logo=Hashnode"></a>
 
+<hr>
+<a href="https://stackoverflow.com/users/14471093/adalbert-pungu"><img alt="Stackoverflow" src="https://img.shields.io/badge/stackoverflow-AdalbertPungu-blue?style=flat-square&logo=stackoverflow"></a>
 <hr>
 
 Thank you 🙏
