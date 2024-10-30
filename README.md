@@ -29,7 +29,8 @@ I am a Microsoft MVP and Software developer with passion in Web technologies & I
 - <a href="https://adalbertpungu.hashnode.dev/"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-AdalbertPungu-blue?style=flat-square&logo=Hashnode"></a>
 
 <hr>
-<a href="https://stackoverflow.com/users/14471093/adalbert-pungu"><img alt="Stackoverflow" src="https://img.shields.io/badge/stackoverflow-AdalbertPungu-blue?style=flat-square&logo=stackoverflow"></a>
+<a href="https://stackoverflow.com/users/14471093/adalbert-pungu"><img alt="Stackoverflow" src="https://img.shields.io/badge/StackOverFlow-AdalbertPungu-blue?style=flat-square&logo=stackoverflow"></a>
+<a href="https://www.frontendmentor.io/profile/AdalbertPungu"><img alt="Frontend Mentor" src="https://img.shields.io/badge/Frontend Mentor-AdalbertPungu-blue?style=flat-square&logo=frontendmentor"></a>
 <hr>
 
 Thank you 🙏
