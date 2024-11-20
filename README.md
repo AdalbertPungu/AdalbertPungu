@@ -9,7 +9,7 @@ I am a Microsoft MVP and Software developer with passion in Web technologies & I
   <img src="https://github-readme-stats.vercel.app/api?username=AdalbertPungu&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Adalbert Pungu" align="right" />
 </a> -->
 - [![MVP Profile](https://img.shields.io/badge/Micosoft_MVP-Developer%20Technologies%20🏆-blue?style=flat&logo=microsoft)](https://mvp.microsoft.com/en-US/MVP/profile/57fe49dc-9da4-48a4-ba35-7e3589375c5e) &nbsp;
-- [![Gold MLSA Profile](https://img.shields.io/badge/Gold-Microsoft%20Student%20Ambassador🏆-blue?style=flat&logo=microsoft)](https://mvp.microsoft.com/fr-FR/studentambassadors/profile/070f61e0-5321-426d-93eb-bd3de87a4ae5) &nbsp;
+- [![Gold MLSA Profile](https://img.shields.io/badge/Gold-Microsoft%20Student%20Ambassador%20Graduated%20🏆-blue?style=flat&logo=microsoft)](https://mvp.microsoft.com/fr-FR/studentambassadors/profile/070f61e0-5321-426d-93eb-bd3de87a4ae5) &nbsp;
 - Pronouns: He/him
 - Fell free to DM me on LinkedIn :)
 
@@ -24,7 +24,7 @@ I am a Microsoft MVP and Software developer with passion in Web technologies & I
 
 ## 📙 Blogposts
 
-- <a href="https://www.freecodecamp.org/news/author/adalbertpungu"><img alt="FreeCodeCamp" src="https://img.shields.io/badge/FreeCodeCamp-AdalbertPungu-blue?style=flat-square&logo=FreeCodeCamp"></a>
+- <a href="https://www.freecodecamp.org/news/author/AdalbertPungu"><img alt="FreeCodeCamp" src="https://img.shields.io/badge/FreeCodeCamp-AdalbertPungu-blue?style=flat-square&logo=FreeCodeCamp"></a>
 - <a href="https://adalbertpungu.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium-AdalbertPungu-black?style=flat-square&logo=Medium"></a> 
 - <a href="https://adalbertpungu.hashnode.dev/"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-AdalbertPungu-blue?style=flat-square&logo=Hashnode"></a>
 
