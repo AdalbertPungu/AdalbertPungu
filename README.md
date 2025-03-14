@@ -9,8 +9,8 @@ As a **Software Engineer**, I specialize in **JavaScript, TypeScript, React, Nex
 As a **Technical Writer**, I have **3+ years of experience** writing in-depth technical articles on **web development, cloud computing, and software engineering** for platforms like **FreeCodeCamp, Medium, and Hashnode**.  
 
 💡 **Key Strengths & Expertise:**  
-- **Software Development**: JavaScript, TypeScript, React, Next.js, Astro, Node.js, C#, ASP.NET Core  
-- **Cloud & DevOps**: Microsoft Azure, **Amazon Web Services (AWS)**, MySQL, MongoDB, PostgreSQL, SQL Server  
+- **Software Development**: JavaScript, TypeScript, React, Next.js, Astro, Node.js, Express.js, C#, ASP.NET Core  
+- **Cloud & DevOps**: Microsoft Azure, Amazon Web Services (AWS), MySQL, MongoDB, PostgreSQL, SQL Server  
 - **Technical Writing**: Contributor at **FreeCodeCamp, Medium, Hashnode**  
 - **Community Leadership**: Former **Lead** at **Microsoft Learn Student Ambassadors**, mentoring students & organizing events  
 
