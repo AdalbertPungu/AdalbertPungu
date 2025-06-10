@@ -2,11 +2,11 @@
 
 <h3 align="left">Hi, I'm Adalbert Pungu!</h3>  
 
-I’m a **Software Engineer**, **Microsoft MVP**, and **Technical Writer** with a strong background in **full-stack web development**, **cloud computing**, and **developer tooling**.  
+I am a **Software Engineer**, **Microsoft MVP**, and **Technical Writer** currently specializing in **Full-Stack development**. I'm passionate about web technologies, cloud computing and development tools, with a focus on JavaScript, TypeScript, React, Next.js, Astro, ASP.NET Core, and cloud platforms like Microsoft Azure and Amazon Web Services (AWS).
 
 As a **Software Engineer**, I specialize in **JavaScript, TypeScript, React, Next.js, Astro, ASP.NET Core, and Microsoft Azure** to build scalable applications.  
 
-As a **Technical Writer**, I have **3+ years of experience** writing in-depth technical articles on **web development, cloud computing, and software engineering** for platforms like **FreeCodeCamp, Medium, and Hashnode**.  
+As a **Technical Writer**, I have **3+ years of experience** writing in-depth technical articles on **web development, cloud computing, and software engineering** for platforms like **FreeCodeCamp, Medium, and Hashnode**.
 
 💡 **Key Strengths & Expertise:**  
 - **Software Development**: JavaScript, TypeScript, React, Next.js, Astro, Node.js, Express.js, C#, ASP.NET Core  
@@ -72,8 +72,7 @@ I write about **web development, cloud computing, and software engineering** on:
 ## 🚀 More About Me  
 
 - 💻 **Passionate about Full-Stack Development & Cloud Computing**  
-- 🌍 **Open to remote opportunities worldwide**  
-- 🔧 **Actively contributing to Open Source**  
+- 🌍 **Open to remote opportunities worldwide** 
 
 <p align="left">
 <a href="https://stackoverflow.com/users/14471093/adalbert-pungu"><img alt="Stackoverflow" src="https://img.shields.io/badge/StackOverFlow-AdalbertPungu-blue?style=flat-square&logo=stackoverflow"></a>
