@@ -29,7 +29,7 @@ As a **Technical Writer**, I have **3+ years of experience** writing in-depth te
 
 ## 💼 Experience  
 
-### **Software Developer – Health System Links (HSL) sarl** _(Oct. 2024 – Present)_
+### **IT Support and Developer – Health System Links (HSL) sarl** _(Oct. 2024 – Present)_
 
 ### **Lead – Microsoft Learn Student Ambassadors** _(Dec. 2023 – Dec. 2024)_  
 - Organized and led **technology-focused events**, including campus hackathons  
